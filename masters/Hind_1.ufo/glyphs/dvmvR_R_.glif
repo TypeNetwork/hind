@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmvRR" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmvRR" format="2">
   <outline>
     <contour>
       <point x="-85" y="-203" type="line"/>

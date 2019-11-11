@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmvL" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmvL" format="2">
+  <anchor x="-162" y="0" name="_blwm.virama"/>
   <outline>
-    <contour>
-      <point x="-162" y="0" type="move" name="_blwm.virama"/>
-    </contour>
     <contour>
       <point x="25" y="-200" type="curve"/>
       <point x="25" y="-58" type="line"/>

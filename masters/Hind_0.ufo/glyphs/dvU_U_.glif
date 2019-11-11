@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvUU" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvUU" format="2">
   <advance width="684"/>
   <unicode hex="090A"/>
+  <anchor x="390" y="634" name="abvm.bindu"/>
+  <anchor x="390" y="634" name="abvm.candra"/>
   <outline>
-    <contour>
-      <point x="390" y="634" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="390" y="634" type="move" name="abvm.candra"/>
-    </contour>
     <contour>
       <point x="465" y="37" type="line"/>
       <point x="470" y="35"/>

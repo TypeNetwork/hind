@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvNY" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNY" format="2">
   <advance width="478"/>
   <outline>
     <contour>
-      <point x="336" y="234" type="line"/>
-      <point x="610" y="234" type="line"/>
-      <point x="610" y="346" type="line"/>
-      <point x="281" y="346" type="line"/>
+      <point x="336" y="232" type="line"/>
+      <point x="610" y="232" type="line"/>
+      <point x="610" y="344" type="line"/>
+      <point x="281" y="344" type="line"/>
     </contour>
     <contour>
       <point x="-30" y="559" type="line"/>

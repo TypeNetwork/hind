@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="turkishlira" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turkishlira" format="2">
   <advance width="588"/>
   <outline>
     <contour>
@@ -22,16 +22,16 @@
       <point x="174" y="117" type="line"/>
     </contour>
     <contour>
-      <point x="360" y="326" type="line"/>
-      <point x="360" y="437" type="line"/>
-      <point x="54" y="283" type="line"/>
-      <point x="54" y="172" type="line"/>
-    </contour>
-    <contour>
       <point x="360" y="526" type="line"/>
       <point x="360" y="637" type="line"/>
       <point x="54" y="483" type="line"/>
       <point x="54" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="326" type="line"/>
+      <point x="360" y="437" type="line"/>
+      <point x="54" y="283" type="line"/>
+      <point x="54" y="172" type="line"/>
     </contour>
   </outline>
 </glyph>

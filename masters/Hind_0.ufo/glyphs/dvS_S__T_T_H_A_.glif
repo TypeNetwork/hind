@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvSS_TTHA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TTHA" format="2">
   <advance width="559"/>
+  <anchor x="489" y="634" name="abvm.bindu"/>
+  <anchor x="489" y="634" name="abvm.e"/>
+  <anchor x="489" y="634" name="abvm.candra"/>
+  <anchor x="489" y="634" name="abvm.reph"/>
+  <anchor x="260" y="-41" name="blwm.u"/>
+  <anchor x="260" y="-6" name="blwm.virama"/>
   <outline>
-    <contour>
-      <point x="489" y="634" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="489" y="634" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="489" y="634" type="move" name="abvm.candra"/>
-    </contour>
-    <contour>
-      <point x="489" y="634" type="move" name="abvm.reph"/>
-    </contour>
-    <contour>
-      <point x="260" y="-41" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="260" y="-6" type="move" name="blwm.virama"/>
-    </contour>
     <contour>
       <point x="145" y="465" type="curve"/>
       <point x="145" y="588" type="line"/>

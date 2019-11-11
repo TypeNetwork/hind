@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvE" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvE" format="2">
   <advance width="549"/>
   <unicode hex="090F"/>
+  <anchor x="320" y="634" name="abvm.bindu"/>
+  <anchor x="320" y="634" name="abvm.candra"/>
   <outline>
-    <contour>
-      <point x="320" y="634" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="320" y="634" type="move" name="abvm.candra"/>
-    </contour>
     <contour>
       <point x="276" y="282" type="line"/>
       <point x="285" y="279"/>

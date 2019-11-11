@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmEcandra" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmEcandra" format="2">
+  <anchor x="-100" y="634" name="_abvm.candra"/>
   <outline>
-    <contour>
-      <point x="-100" y="634" type="move" name="_abvm.candra"/>
-    </contour>
     <contour>
       <point x="-131" y="741" type="curve" smooth="yes"/>
       <point x="-45" y="741"/>

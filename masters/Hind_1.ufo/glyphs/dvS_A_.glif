@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvSA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSA" format="2">
   <advance width="682"/>
   <unicode hex="0938"/>
   <outline>
@@ -9,8 +9,8 @@
       <point x="218" y="354" type="line"/>
       <point x="92" y="275" type="line"/>
       <point x="92" y="275"/>
-      <point x="173" y="243"/>
-      <point x="321" y="243" type="curve"/>
+      <point x="173.0" y="243.0"/>
+      <point x="321" y="243" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="412" y="559" type="line"/>

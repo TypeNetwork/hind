@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvS_T_YA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvS_T_YA" format="2">
   <advance width="1404"/>
   <outline>
     <contour>
@@ -33,12 +33,12 @@
       <point x="714" y="360" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="380" y="559" type="line"/>
-      <point x="1048" y="559" type="line"/>
-      <point x="1048" y="671" type="line"/>
-      <point x="380" y="671" type="line"/>
+      <point x="428" y="559" type="line"/>
+      <point x="1096" y="559" type="line"/>
+      <point x="1096" y="671" type="line"/>
+      <point x="428" y="671" type="line"/>
     </contour>
-    <component base="dvYA" xOffset="770"/>
     <component base="dvS"/>
+    <component base="dvYA" xOffset="770"/>
   </outline>
 </glyph>

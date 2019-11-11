@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvKA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvKA" format="2">
   <advance width="761"/>
   <unicode hex="0915"/>
+  <anchor x="350" y="0" name="blwm.u"/>
+  <anchor x="412" y="634" name="abvm.bindu"/>
+  <anchor x="412" y="634" name="abvm.candra"/>
+  <anchor x="412" y="634" name="abvm.e"/>
+  <anchor x="412" y="634" name="abvm.reph"/>
+  <anchor x="350" y="0" name="blwm.virama"/>
   <outline>
-    <contour>
-      <point x="350" y="0" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="412" y="634" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="412" y="634" type="move" name="abvm.candra"/>
-    </contour>
-    <contour>
-      <point x="412" y="634" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="412" y="634" type="move" name="abvm.reph"/>
-    </contour>
-    <contour>
-      <point x="350" y="0" type="move" name="blwm.virama"/>
-    </contour>
     <contour>
       <point x="781" y="579" type="line"/>
       <point x="781" y="634" type="line"/>
@@ -90,4 +78,10 @@
       <point x="496" y="170" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9619,0.0201,0.2081,1</string>
+    </dict>
+  </lib>
 </glyph>

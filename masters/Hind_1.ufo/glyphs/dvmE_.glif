@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmE" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE" format="2">
   <unicode hex="0947"/>
+  <anchor x="-70" y="671" name="_abvm.e"/>
   <outline>
-    <contour>
-      <point x="-70" y="671" type="move" name="_abvm.e"/>
-    </contour>
     <contour>
       <point x="-427" y="800" type="line"/>
       <point x="-407" y="806"/>
