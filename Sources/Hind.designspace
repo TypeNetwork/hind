@@ -4,12 +4,12 @@
         <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
     </axes>
     <sources>
-        <source familyname="Hind" filename="Hind_0.ufo" stylename="Light">
+        <source familyname="Hind" filename="Hind-Light.ufo" stylename="Light">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
         </source>
-        <source familyname="Hind" filename="Hind_1.ufo" stylename="Bold">
+        <source familyname="Hind" filename="Hind-Bold.ufo" stylename="Bold">
             <groups copy="1" />
             <features copy="1" />
             <info copy="1" />
