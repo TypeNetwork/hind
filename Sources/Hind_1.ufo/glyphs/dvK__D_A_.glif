@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvK_DA" format="2">
+  <advance width="1127"/>
+  <anchor x="1026" y="671" name="abvm.bindu"/>
+  <anchor x="1026" y="671" name="abvm.candra"/>
+  <anchor x="1026" y="671" name="abvm.e"/>
+  <anchor x="1026" y="671" name="abvm.reph"/>
+  <anchor x="786" y="-35" name="blwm.u"/>
+  <anchor x="786" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvK"/>
+    <component base="dvDDA" xOffset="593"/>
+  </outline>
+</glyph>

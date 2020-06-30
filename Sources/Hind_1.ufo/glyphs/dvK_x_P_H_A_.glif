@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvKx_PHA" format="2">
+  <advance width="1413"/>
+  <anchor x="1076" y="671" name="abvm.bindu"/>
+  <anchor x="1076" y="671" name="abvm.e"/>
+  <anchor x="1076" y="671" name="abvm.reph"/>
+  <anchor x="1076" y="671" name="abvm.candra"/>
+  <anchor x="934" y="0" name="blwm.u"/>
+  <anchor x="934" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvK"/>
+    <component base="dvPHA" xOffset="569"/>
+    <component base="dvNukta" xOffset="460" yOffset="80"/>
+  </outline>
+</glyph>

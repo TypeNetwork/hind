@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNY_CHA" format="2">
+  <advance width="1109"/>
+  <anchor x="1000" y="671" name="abvm.bindu"/>
+  <anchor x="1000" y="671" name="abvm.candra"/>
+  <anchor x="1000" y="671" name="abvm.e"/>
+  <anchor x="1000" y="671" name="abvm.reph"/>
+  <anchor x="711" y="14" name="blwm.u"/>
+  <anchor x="711" y="49" name="blwm.virama"/>
+  <outline>
+    <component base="dvNY"/>
+    <component base="dvCHA" xOffset="452"/>
+  </outline>
+</glyph>

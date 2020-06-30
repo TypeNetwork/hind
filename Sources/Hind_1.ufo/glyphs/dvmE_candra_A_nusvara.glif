@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmEcandra_Anusvara" format="2">
+  <anchor x="-70" y="671" name="_abvm.candra"/>
+  <outline>
+    <component base="dvCandrabindu"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvP_PHA" format="2">
+  <advance width="1154"/>
+  <anchor x="817" y="671" name="abvm.bindu"/>
+  <anchor x="817" y="671" name="abvm.e"/>
+  <anchor x="817" y="671" name="abvm.reph"/>
+  <anchor x="817" y="671" name="abvm.candra"/>
+  <anchor x="675" y="0" name="blwm.u"/>
+  <anchor x="675" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvP"/>
+    <component base="dvPHA" xOffset="310"/>
+  </outline>
+</glyph>

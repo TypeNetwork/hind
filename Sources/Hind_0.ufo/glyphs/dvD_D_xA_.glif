@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDDxA" format="2">
+  <advance width="517"/>
+  <unicode hex="095C"/>
+  <anchor x="390" y="634" name="abvm.bindu"/>
+  <anchor x="390" y="634" name="abvm.candra"/>
+  <anchor x="390" y="634" name="abvm.e"/>
+  <anchor x="390" y="634" name="abvm.reph"/>
+  <anchor x="218" y="-218" name="blwm.u"/>
+  <anchor x="218" y="-183" name="blwm.virama"/>
+  <outline>
+    <component base="dvDDA"/>
+    <component base="dvNukta" xOffset="520" yOffset="-10"/>
+  </outline>
+</glyph>

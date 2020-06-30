@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_HA" format="2">
+  <advance width="995"/>
+  <anchor x="899" y="634" name="abvm.bindu"/>
+  <anchor x="899" y="634" name="abvm.candra"/>
+  <anchor x="899" y="634" name="abvm.e"/>
+  <anchor x="899" y="634" name="abvm.reph"/>
+  <anchor x="738" y="-62" name="blwm.u"/>
+  <anchor x="738" y="-27" name="blwm.virama"/>
+  <outline>
+    <component base="dvL"/>
+    <component base="dvHA" xOffset="470"/>
+  </outline>
+</glyph>
